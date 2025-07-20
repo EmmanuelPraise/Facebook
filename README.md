@@ -66,4 +66,4 @@ This project is a **UI clone** made **only for practice, tutorials, and frontend
 
 ## ✍️ Author
 
-- **Your Name** – [Emmanuel Ayelabola](https://github.com/EmmanuelPraise/)
+- **Name** – [Emmanuel Ayelabola](https://github.com/EmmanuelPraise/)
